@@ -2,8 +2,7 @@
 # 一些书签🔖
 >**用户体验温馨提示(Ctrl+单击打开相关链接)😁**
 
-## JavaScript研究员🧐
->一些常用的书签(阶段性调整)  
+## 一些常用的书签🥛
 - [开仓大吉🍊](https://github.com/new)
 - [一起读书吧📚](https://github.com/techpang666/books_output)
 - [GitHub👻](https://github.com/)
@@ -29,7 +28,6 @@
 - [百度图片📷](https://image.baidu.com/)
 
 ## 一些输出行动💪
->每天进步一点点💰  
 1. [自律简报机🍖](https://github.com/techpang666/commuter)
 2. [分段式红宝书行动📚](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
 3. [坚持输出一些面试题👨‍💻](https://techpang.top/interview_libs/)
@@ -222,7 +220,6 @@
 - [微信小程序之this.data和this.setData{()}区别](https://www.jianshu.com/p/4fe2af286f7a)
 
 ## Mac小分队💻
->忘了Windows吧 我养你🥰  
 - [一些快捷键及疑难杂症🥺](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/mac_libs.md)
 - [我的Mac型号💻](https://support.apple.com/kb/SP794?locale=zh_CN)
 - [一些Mac的超集应用😲](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
